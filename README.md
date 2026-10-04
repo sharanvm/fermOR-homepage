@@ -63,3 +63,16 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/sharanvm/fermOR-homepage.gitgit add README.md
+## Screenshots
+
+### Desktop Homepage
+
+![Desktop Homepage](public/screenshots/desktop.png)
+
+### Mobile Homepage
+
+![Mobile Homepage](public/screenshots/mobile.png)
+
+### Product Preview
+
+![Product Preview](public/screenshots/preview.png)
